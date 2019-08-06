@@ -1,0 +1,26 @@
+{
+  "name": "credit-go",
+  "version": "1.0.0",
+  "description": "calc credit mortgage bank payment strategy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon credit.go --exec 'go run credit.go || exit 1'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solidarik/CreditGo.git"
+  },
+  "keywords": [
+    "mortgage",
+    "payment",
+    "stategy",
+    "credit"
+  ],
+  "author": "ildar.gubaydullin@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/solidarik/CreditGo/issues"
+  },
+  "homepage": "https://github.com/solidarik/CreditGo#readme"
+}

@@ -1,0 +1,17 @@
+Thubms.db
+.DS_Store
+
+*.log
+*.class
+*.py[co]
+
+secret*
+
+*.class
+
+package-lock.json
+
+dist/
+.cache/
+node_modules/
+geacron/
